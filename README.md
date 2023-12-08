@@ -33,7 +33,7 @@ In the **tests** folder, you will find examples of programs that can be resolved
 ### Definition
 **mt.json**: This file contains the definition of the Turing machine.
 
-```json
+```
 { "mt": [
   n,
   E,
@@ -111,7 +111,7 @@ Na pasta **tests**, você encontrará exemplos de programas que podem ser resolv
 ### Definição
 **mt.json**: Este arquivo contém a definição da máquina de Turing.
 
-```json
+```
 { "mt": [
   n,
   E,
