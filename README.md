@@ -1,6 +1,6 @@
 This work was done for the discipline of Formal Languages and Automata under the mentoring of teacher [Andrei Rimsa](https://github.com/rimsa)
 
-[English](#eng-us)
+[English](#eng---us)
 - [Description](#description)
 - [Instructions](#instructions)
 - [Examples](#examples)
@@ -8,7 +8,7 @@ This work was done for the discipline of Formal Languages and Automata under the
   - [Diagram](#diagram)
   - [Input/Output](#inputoutput)
 
-[Português](#pt-br)
+[Português](#pt---br)
 - [Descrição](#descrição)
 - [Instruções](#instruções)
 - [Exemplos](#exemplos)
